@@ -23,3 +23,6 @@ What I want to learn next:
     />
 - :crystal_ball: Chakra UI
 - :snake: Python
+
+🇹🇭 too hot
+🇸🇪 too cold
