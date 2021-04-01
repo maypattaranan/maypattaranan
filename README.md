@@ -1,4 +1,4 @@
-### Hi! I'm May and I'm a code newbie! :wave:
+### Hi! I'm Mayy, a code newbie! :wave:
 
 What I'm currently learning:
 - :vertical_traffic_light: Javascript
