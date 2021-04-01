@@ -1,9 +1,11 @@
-### Hi there! I'm May and I'm a code newbie here! :information_desk_person:
+### Hi! I'm May and I'm a code newbie here! :wave:
 
 <!--
 **maypattaranan/maypattaranan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently I'm learning:
+:nut_and_bolt: vanilla Javascript
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
