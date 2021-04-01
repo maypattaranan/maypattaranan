@@ -1,7 +1,7 @@
 ### Hi! I'm May and I'm a code newbie here! :wave:
 
 Currently I'm learning:
-:nut_and_bolt: vanilla Javascript
+- :nut_and_bolt: vanilla Javascript
 **maypattaranan/maypattaranan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
