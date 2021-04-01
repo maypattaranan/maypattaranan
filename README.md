@@ -5,11 +5,21 @@ What I'm currently learning:
 - :books: Data Structures and Algorithms
 
 What I want to learn next:
-- :gem: React
+-  <img
+      alt="React"
+      src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+    />
 - <img
       alt="Next.js"
       src="https://img.shields.io/badge/-Nextjs-542C85?style=flat-square&logo=next.js&logoColor=white"
-    /> Next.js
-- :package: Mongo DB
+    />
+- <img
+        alt="MongoDB"
+        src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+      />
+- <img
+      alt="Nodejs"
+      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
+    />
 - :crystal_ball: Chakra UI
 - :snake: Python
