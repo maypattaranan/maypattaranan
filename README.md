@@ -23,5 +23,3 @@ What I want to learn next:
     />
 - :crystal_ball: Tailwind CSS
 - :snake: Python
-
-🇸🇪 🇹🇭
