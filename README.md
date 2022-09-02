@@ -23,3 +23,6 @@ What I want to learn next:
     />
 - :crystal_ball: Tailwind CSS
 - :snake: Python
+
+5 Years Later
+'I realize a SWEing job is too difficult to pursue so I sell noodles instead.' 🍜
