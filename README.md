@@ -25,4 +25,4 @@ What I want to learn next:
 - :snake: Python
 
 5 Years Later
-'I realize a SWEing job is too difficult to pursue so I sell noodles instead.' 🍜
+- 'I realize a SWEing job is too difficult to pursue so I sell noodles instead.' 🍜
