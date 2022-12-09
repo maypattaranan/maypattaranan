@@ -1,11 +1,9 @@
-### Hi! I'm May, a code newbie! :wave:
+### Hi! I'm May, a frontend developer! :wave:
 
-What I'm currently learning:
-- :vertical_traffic_light: Javascript
+What I'm currently learning more about:
+- :vertical_traffic_light: TypeScript
 - :books: Data Structures and Algorithms
-
-What I want to learn next:
--  <img
+- <img
       alt="React"
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
     />
@@ -21,6 +19,7 @@ What I want to learn next:
       alt="Nodejs"
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
     />
+
 - :crystal_ball: Tailwind CSS
 - :snake: Python
 
